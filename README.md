@@ -1,2 +1,2 @@
 # RNN
-Keras recurrent neural network example
+This is a simple example of implementing a LSTM binary predictor using Keras.
